@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-topcasagrande",
+  "version": "1.0.0",
+  "description": "projeto da alura, curso bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "allan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
